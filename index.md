@@ -1,6 +1,6 @@
 ## Course List
 
-*I'll update this as time permits, I'm busy wrapping up my `jenkins-getting-started` update (2nd edition). After that I'll link in all my courses. I'll group courses by relationship too so you can follow my work almost in a path like format!*
+***I'll update this as time permits, I'm busy wrapping up my `jenkins-getting-started` update (2nd edition). After that I'll link in all my courses. I'll group courses by relationship too so you can follow my work almost in a path like format!***
 
 ## Jenkins
 
@@ -25,5 +25,3 @@
 ## Author Page
 
 https://app.pluralsight.com/profile/author/wes-mcclure 
-
-## 
