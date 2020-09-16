@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Course List
 
-You can use the [editor on GitHub](https://github.com/g0t4/pluralsight-courses/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'll update this as time permits, I'm busy wrapping up my `jenkins-getting-started` update (2nd edition). After that I'll link in all my courses. I'll group courses by relationship too so you can follow my work almost in a path like format!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Jenkins
 
-### Markdown
+- WIP Jenkins Getting Started (2nd Edition) 
+  - (LINK COMING SOON)
+  - Primary course repo: https://github.com/g0t4/jenkins-getting-started
+- [Jenkins Getting Started 2 (1st Edition)](https://app.pluralsight.com/library/courses/jenkins-2-getting-started)
+    - Jenkins is a solid product and so content in the 1st Edition is largely relevant. And there are things we chose to cut so it fit into a path for Jenkins that had other courses that expanded on topics like `plugins` so if you want my take on that subject watch the appropos content from the 1st Edition as some of it didn't make my cuts into the 2nd Edition's shorter version. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Jenkins Getting Started 2 (1st Edition)
 
-```markdown
-Syntax highlighted code block
+## Docker
 
-# Header 1
-## Header 2
-### Header 3
+- Docker
+  - Getting Started with Docker on Windows
 
-- Bulleted
-- List
+## TeamCity
 
-1. Numbered
-2. List
+- TeamCity Getting Started
+  - A long time favorite CI tool, bullet proof product! And great team developing and supporting it... It's JetBrains, who could complain!
+ 
+## Author Page
 
-**Bold** and _Italic_ and `Code` text
+https://app.pluralsight.com/profile/author/wes-mcclure 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/g0t4/pluralsight-courses/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 
